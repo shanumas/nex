@@ -1,0 +1,5 @@
+com\uma\nxdiag\NxdiagApplication.class
+com\uma\nxdiag\utils\RecordUtil.class
+com\uma\nxdiag\controller\RecordsController.class
+com\uma\nxdiag\services\DPIService.class
+com\uma\nxdiag\model\Record.class
